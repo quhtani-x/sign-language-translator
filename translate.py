@@ -1,6 +1,7 @@
 import cv2
 import mediapipe as mp
 
+# DISCLAIMER , some of the comments has been added by Ai as my code didnt have much comments and i told the Ai to explain the code , also remove dead commented code
 # SIGN LANGUAGE TRANSLATOR (finger-spelling helper).
 # uses MediaPipe hand tracking to read which fingers you're holding up and maps
 # common hand shapes to letters/words live from the webcam. it's a simple
